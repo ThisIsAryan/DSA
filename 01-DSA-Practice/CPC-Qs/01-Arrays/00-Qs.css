@@ -1,0 +1,47 @@
+Arrays (set 1)
+https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0
+
+https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0
+
+https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0
+
+Arrays (set 2)
+https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1
+
+https://leetcode.com/problems/merge-intervals/description/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+Arrays(set 3)
+https://practice.geeksforgeeks.org/problems/common-elements1132/1
+
+https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/
+
+https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
+
+Arrays(set 4)
+https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1
+
+https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0
+
+https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/
+
+Pattern Searching : Level of problems generally in OTs/ interviews - (Medium - Hard):
+
+This topic is really important and if asked in OT / interview then doing the same without KMP, Z algo(better go for KMP if you want peace),  (rabin karp has worst case possible same as that of naive approach) is quite impossible. If you know the KMP handly then implenting it will take barely 5 mins.
+
+Questions on this topics seems to be Hard without practicing it priorly :)
+
+1. KMP nice explanation - https://youtu.be/GTJr8OvyEVQ
+2. KMP Code(its in java but c++ implementation is same) - https://github.com/mission-peace/interview/blob/master/src/com/interview/string/SubstringSearch.java
+
+Questions: 
+1. Repeated Substring Pattern - https://leetcode.com/problems/repeated-substring-pattern
+2. Rotate String - https://leetcode.com/problems/rotate-string
+3. https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
+4. Shortest Palindrome - https://leetcode.com/problems/shortest-palindrome/
+5.  Longest Happy Prefix - https://leetcode.com/problems/longest-happy-prefix/
+
+
+Q 
+https://practice.geeksforgeeks.org/problems/lru-cache/1

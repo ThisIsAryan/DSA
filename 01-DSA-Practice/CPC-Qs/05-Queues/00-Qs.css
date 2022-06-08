@@ -1,0 +1,32 @@
+Queue (advanced form) : Level of questions asked in OT / Interviews - Medium - Hard*
+
+Queue is a very underrated Data Structure !
+
+Queue doesn't only mean FIFO concept, it's all depends on you how you are implementing this abstract type under the hood depending on the situation.
+
+Monotonic Queues are really important specially when you are sitting for core Software companies like FAANG, Uber, etc. it's really hard to think about monotonic queues especially when you haven't practiced any problem like it
+
+Problems which have time complexity of O(N^3) or O(N^2) can be solved (generally) in O(N.log(N)  ) with very good optimization but it can also be solved in O( N )  with monotonic queues. In case of doubt move to the leetcode section (I have given link to it downwards) and choose any hard problem and try it yourself !
+
+Queue Resources:
+1. C++ STL resource to learn: https://www.geeksforgeeks.org/queue-cpp-stl/
+2. Deque resource to learn: https://www.geeksforgeeks.org/deque-cpp-stl/
+3. Interview Problems: https://medium.com/techie-delight/queue-data-structure-practice-problems-and-interview-questions-f459bf0578db
+4. Leetcode problems (prefer to do medium -> hard level of questions): https://leetcode.com/tag/queue/
+
+Monotonic Queues Resources:
+1. Introduction: https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6
+2. some problems with explanation: https://1e9.medium.com/monotonic-queue-notes-980a019d5793
+3. Some more problems with graphical explanation: https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/discuss/204290/Monotonic-Queue-Summary
+4. Leetcode Section(prefer to do medium -> hard level questions ) : https://leetcode.com/tag/monotonic-queue/
+
+Implementation for MonotonicQueue: https://gist.github.com/ranaaditya/dd16cd633593c72dc66dcdc73b8da26c
+
+Queue(set 1)
+https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+
+https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/
+
+https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+
+https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/

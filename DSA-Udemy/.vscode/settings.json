@@ -17,6 +17,9 @@
   "C_Cpp_Runner.enableWarnings": true,
   "C_Cpp_Runner.warningsAsError": false,
   "files.associations": {
-    "ostream": "cpp"
-  }
+    "*.html": "html",
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled"
 }
